@@ -1,0 +1,23 @@
+// @import "slick-carousel/slick/slick";
+
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.asset-item-img {
+    width: 200px;
+}
+
+.asset-item-title {
+    width: 200px;
+    line-height: 1.2em;
+    margin-top: 10px;
+    height: 1.2em;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
